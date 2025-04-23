@@ -1,6 +1,7 @@
+import 'package:flutter_test/flutter_test.dart';
 import 'package:nominatim_flutter/config/dio_cache_configuration.dart';
 import 'package:nominatim_flutter/nominatim_flutter.dart';
-import 'package:test/test.dart';
+
 
 void main() {
   group('Dio Cache Configuration', () {

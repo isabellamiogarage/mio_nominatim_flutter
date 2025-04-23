@@ -1,6 +1,6 @@
+import 'package:flutter_test/flutter_test.dart';
 import 'package:nominatim_flutter/model/request/reverse_request.dart';
 import 'package:nominatim_flutter/nominatim_flutter.dart';
-import 'package:test/test.dart';
 
 void main() {
   test('Reverse test', () async {
